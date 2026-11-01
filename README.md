@@ -34,17 +34,18 @@ Develop a robust Python tool that automatically cleans and processes raw NYC Air
 ```text
 CPSC-620-3-Agile-Software-Development/
 ├── data/
-│   └── Airbnb_NYC.csv                       # Raw NYC Airbnb dataset
+│   └── Airbnb_NYC.csv                          # Raw NYC Airbnb dataset
 ├── src/
-│   └── data_cleaning.py                     # Data ingestion, cleaning & summarization pipeline
+│   └── data_cleaning.py                        # Data ingestion, cleaning & summarization pipeline
 ├── tests/
-│   ├── __init__.py                          # Test package marker
-│   └── test_data_cleaning.py                # Unit and integration test suite (18 test cases)
-├── Paula Task - NYC_Airbnb_Data_Analysis_Sprint1.ipynb  # EDA & outlier analysis notebook
-├── .gitignore                               # Git ignore rules
-├── README.md                                # Project documentation
-├── requirements.txt                         # Project dependencies
-└── TESTING.md                               # QA test plan and verification report
+│   ├── __init__.py                             # Test package marker
+│   └── test_data_cleaning.py                   # Unit and integration test suite (18 test cases)
+├── NYC_Airbnb_Exploratory_Data_Analysis.ipynb  # EDA & outlier analysis notebook
+├── NYC_Airbnb_ Visualizations.ipynb            # Data visualization of prices, room types & neighbourhood patterns
+├── .gitignore                                  # Git ignore rules
+├── README.md                                   # Project documentation
+├── requirements.txt                            # Project dependencies
+└── TESTING.md                                  # QA test plan and verification report
 ```
 
 ---
